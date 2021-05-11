@@ -4,8 +4,9 @@ using namespace std;
 
 int main()
 {
-	ios:: sync_with_stdio(0);
-	cin.tie(0);
+	while(cin>>x){
+		// code comes here 
+	}
 
 	return 0;
 }
